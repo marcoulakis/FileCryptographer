@@ -1,0 +1,17 @@
+{
+  "name": "file-cryptographer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marcoulakis and Mikachi",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon --trace-deprecation index.js"
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "fs": "^0.0.1-security",
+    "node": "^17.4.0",
+    "nodemon": "^2.0.15"
+  }
+}
