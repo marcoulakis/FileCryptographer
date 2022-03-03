@@ -1,4 +1,3 @@
-const secret = "123456123456123456123456123456123456123456123456123456123456123456123456123456";
 const cryptoJs = require('crypto');
 const fs = require('fs');
 const inquirer = require('inquirer')
