@@ -68,7 +68,7 @@ yarn start
 Once the process is complete, the program will display a success message along with the path to the newly generated file.
 
 > **Warning**
-> Be careful! When you encrypt a file, the original one is PERMANENT DELETED
+> When you encrypt a file, the original one is PERMANENT DELETED
 > automatically. If you wanna make sure that you don't want to lose original
 > note your password and make a backup of the original file
 
