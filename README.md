@@ -1,4 +1,4 @@
-# **file-cryptographer**
+# **File Cryptographer**
 
 ## Overview
 
@@ -6,13 +6,13 @@ The File Cryptographer is a command-line tool that allows you to encrypt and dec
 
 ### **Example of encryption process:**
   <p align="center">
-    <img src="https://raw.githubusercontent.com/marcoulakis/file-cryptographer/main/assets/encrypt.gif" alt="Example of encrypt gif" height="auto" width="500" align="center"/>
+    <img src="https://raw.githubusercontent.com/marcoulakis/FileCryptographer/main/assets/encrypt.gif" alt="Example of encrypt gif" height="auto" width="500" align="center"/>
   </p>
 
 ### **Example of decryption process:**
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/marcoulakis/file-cryptographer/main/assets/decrypt.gif" alt="Example of encrypt gif" height="auto" width="500" align="center"/>
+    <img src="https://raw.githubusercontent.com/marcoulakis/FileCryptographer/main/assets/decrypt.gif" alt="Example of encrypt gif" height="auto" width="500" align="center"/>
   </p>
 
 ## Prerequisites
@@ -29,12 +29,12 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/marcoulakis/file-cryptographer.git
+git clone https://github.com/marcoulakis/FileCryptographer.git
 ```
 
 2. Navigate to the project directory:
 ```
-cd file-cryptographer
+cd FileCryptographer
 ```
 
 3. Install the project dependencies:
